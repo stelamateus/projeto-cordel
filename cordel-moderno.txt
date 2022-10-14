@@ -2,15 +2,13 @@ Cordel Moderno
 Por Milton Duarte
 [SITE: https://www.recantodasletras.com.br/poesias/3186743]
 
-<section>
-    stou ficando cansado
-    Da tal tecnologia
-    Só se fala por e-mail
-    Mensagem curta e fria
-    Twitter e Facebook
-    Antes que eu caduque
-    Vou dizer tudo em poesia.
-</section>
+Estou ficando cansado
+Da tal tecnologia
+Só se fala por e-mail
+Mensagem curta e fria
+Twitter e Facebook
+Antes que eu caduque
+Vou dizer tudo em poesia.
 
 //---
 
