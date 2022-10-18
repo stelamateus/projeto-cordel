@@ -1,2 +1,2 @@
 # projeto-cordel
-Projeto Corde l- Cordel Moderno Por Milton Duarte
+Projeto Cordel- Cordel Moderno Por Milton Duarte
