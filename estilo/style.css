@@ -59,13 +59,13 @@ section.normal {
     color: black;
 }
 section.imagem {
-    background-color:rgba(0, 0, 0, 0.718);
+    background-color:rgba(0, 0, 0, 0.577);
     color: white;
 }
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color:rgba(0, 0, 0, 0.514);
+    background-color:rgba(0, 0, 0, 0.504);
     text-shadow: 1px 1px 0px black;
 }
 section#img01{
