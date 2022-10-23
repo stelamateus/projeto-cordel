@@ -63,6 +63,7 @@ section.imagem {
     color: white;
     box-shadow: inset 6px 6px 13px;
 }
+
 section.imagem > p {
     display: inline-block;
     padding: 5px;
@@ -74,6 +75,7 @@ background-image: url(../imagens/imagens/background001.jpg);
 background-position: right center;
 background-size:cover;
 }
+
 section#img02{
     background-image: url(../imagens/imagens/background002.jpg);
     background-size: cover;
